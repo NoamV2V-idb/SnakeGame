@@ -290,21 +290,8 @@ document.onkeydown = function handleKeyDown(e)
         default: 
          return; 
     }
-
+    
     snakee.setDirection(newDirection);
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
 
 }
